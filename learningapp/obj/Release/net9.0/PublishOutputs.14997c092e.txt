@@ -1,0 +1,7 @@
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\learningapp.exe
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\appsettings.Development.json
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\appsettings.json
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\learningapp.dll
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\learningapp.deps.json
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\learningapp.runtimeconfig.json
+D:\C#practise2025\az204microsoft\temp\learningapp\bin\publish\learningapp.pdb
